@@ -1,0 +1,7 @@
+{
+  "name": "codeVDAQ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
